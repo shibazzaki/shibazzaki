@@ -7,7 +7,7 @@ I'm Vladislav Makhobey
 
 <h2>💻 I'm Currenly Learning</h2>
 
-- JavaScript and JS's libs(jQuery, React)
+- JavaScript and JS's frameworks (jQuery, React)
 - Python
 - Embedded systems (Arduino)
 
