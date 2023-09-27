@@ -2,6 +2,7 @@
 
 I'm Vladislav Makhobey
 <i>Currently:</i> Student at the Vasyl Stefanyk Precarpathian National University.
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=shibazzaki&label=visitors&countColor=%23263759)](https://visitorbadge.io/status?path=shibazzaki)
 
 <h2>💻 I'm Currenly Learning</h2>
